@@ -2,7 +2,10 @@
 
 File Info:-
 
--Create two table : This code is for create two table in SQL Plus 
+-Create two table : This code is for create two table in mySQL
+
+/Basics:-
+-Create two table : For SQL Plus 
 
 
 
