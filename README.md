@@ -1,8 +1,10 @@
 # SQL-Practice
-Mastering SQL queries | College syllabus + real-world MERN backend power
 
-Strong database = strong application.  
-Mastering MySQL / PostgreSQL queries for college + MERN Stack 2026 goal.
+File Info:-
+
+-Create two table : This code is for create two table in SQL Plus 
+
+
 
 ### 📂 Structure
 - `/basics` → CREATE, INSERT, SELECT, WHERE, ORDER BY
